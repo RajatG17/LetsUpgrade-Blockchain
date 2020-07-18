@@ -1,0 +1,33 @@
+1) What is your understanding of blockchain?
+=> Blockchain is a structure that keeps transactional records and ensures security and decentralization.
+   It is a cryptographically linked list of records. The records are stored in the form of blocks, and 
+   the authority of which is distributed.
+
+2) What is the core problem Blockchain is trying to solve?
+=> Blockchain tries to solve problems such as:
+   a) Accountability issues
+   b) Identity theft
+   c) Piracy Issues
+   d) Inefficiency and mismanagement
+   e) Lack of transperancy
+
+3) What are the few features which Blockchain will give you?
+=> a) Immutable
+   b) Decentralized
+   c) Enhanced Security
+   d) Tamper proof
+
+4) What all things does a block contain ?
+=> Block Number
+   Previous block Signature
+   Records
+   Mining Key
+
+5) How verifiability of Blockchain has been attained?
+=> The data is stored across multiple sites throughout the internet. If any discrepency is observed at 
+   a particular site then it can be rectified by verifying data at other sites. In this way verifiability
+   is achieved.
+	Data = key0
+    	key0+New Data = key1
+	key1+New Data = key2
+   	 and so on.
